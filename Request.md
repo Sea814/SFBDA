@@ -3,4 +3,4 @@ The use of this database is restricted to research purposes. No data will be pro
 
 Thank you!
 
-**Please send it to wengzhenhai@stu.cqu.edu.cn via your academic email. I will reply the dataset download address to you.**
+**Please send it to wengzhenhai@outlook.com via your academic email. I will reply the dataset download address to you.**
