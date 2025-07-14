@@ -12,4 +12,4 @@ MSIR-UAVDET is a multi-scene infrared UAV detection dataset.
 Download **MSIR-UAVDET** upon request. You may use the request form to request access to the dataset according to [Request.md](https://github.com/Sea814/SFBDA/blob/main/Request.md).
 
 ## Method
-![overview](./images/overview.jpg)
+![overview](overview.jpg)
