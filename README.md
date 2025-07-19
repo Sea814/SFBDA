@@ -13,3 +13,7 @@ Download **MSIR-UAVDET** upon request. You may use the request form to request a
 
 ## Method
 ![overview](overview.jpg)
+
+### ILFS
+### CBGM
+The Difussion model can git at[model link](https://drive.google.com/file/d/1QNvLqB7PeRcRy75jWxunYbMXFTrHdFKM/view?usp=drive_link).
